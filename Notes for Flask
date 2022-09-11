@@ -1,0 +1,10 @@
+welcome url: http://127.0.0.1:5000/
+
+prescipitation url: http://127.0.0.1:5000/api/v1.0/precipitation
+
+stations url: http://127.0.0.1:5000/api/v1.0/stations (output = error)
+
+tobs url: http://127.0.0.1:5000/api/v1.0/tobs (output = error)
+
+statistics url: http://127.0.0.1:5000//api/v1.0/temp/start/end route (output = null)
+              : http://127.0.0.1:5000//api/v1.0/temp/2017-06-01/2017-06-30 (output = error)
