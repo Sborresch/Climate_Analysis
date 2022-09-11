@@ -28,4 +28,14 @@ It was determined that although December proved satisfactory temperatures, the m
 
 # Summary
 ## Summary of Results
-## Additional Queries
+Based on the temperature data I provided to W. Avy, Surf n' Shake Shack has found all the investment capital needed to begin production. The weather data proves that with minimal adjustment the business will be sustainable year round and have a long and healthy business life cycle. I can now begin to live the life I want, surfing in Hawaii and providing both tourists and locals all the ice cream and surf gear they could ever need!
+
+Below are two additional query searches I have provided to run for W. Avy to get a better understanding of how weather will impact our business venture:
+
+## Additional Query 1: Percipitation
+I have determined that temperature is not the only metric that may be imperative to analyze when it comes to opening a business on the big island. It will also be important to see how much rain the months June and December get. Percipitation can effect the demand for surfing, as it becomes more difficult, and can effec the demand for ice cream, as less people may leave there house. Where the business will be located does not typically get many inches of rain, but during the high percipitation months, what can the Surf n' Shake Shack do to maintain normal business revenue? These findings can help us identify when they happen and strategize ideas on how to combat any possible aversions.
+
+## Additional Query 2: Tourist Season
+I have determined that the level our tourism on the big island is an important metric to analyze. Although it will require a different data source, it will be beneficial to the Surf n' Shake Shack stakeholders to understand when to expect higher and lower levels of foot traffic. For the months that may be lower, such as December, what can we do to capture the local market better? For the months that may be higher, such as June, what can we do to capture the tourist market better?
+
+ALOHA!
